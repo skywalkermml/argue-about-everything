@@ -1,0 +1,1 @@
+export const api_key = "<OPENAI_API_KEY>"
